@@ -1,7 +1,7 @@
 # CogniEdit: Dense Gradient Flow Optimization for Fine-Grained Image Editing (CVPR 26)
 
 ## Overview
-![CogniEdit Pipeline](assets/cogniedit_pipeline.png)
+![CogniEdit Pipeline](assets/cogni_frame.png)
 
 ### Data Preprocess
 1. We use two datasets: [COCO 2017](https://cocodataset.org/#home) and [SEED-Data-Edit](https://huggingface.co/datasets/haotian-liu/SEED-Data-Edit).
