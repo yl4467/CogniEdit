@@ -1,0 +1,23 @@
+# Core ML libraries
+torch>=2.0.0
+torchvision
+transformers>=4.21.0
+diffusers>=0.10.0
+
+# Training and acceleration
+accelerate>=0.12.0
+wandb
+
+# Image processing
+Pillow
+opencv-python-headless
+matplotlib
+tqdm
+
+# Configuration and utilities
+omegaconf
+python-dotenv
+scipy
+einops
+timm
+ninja

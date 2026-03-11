@@ -1,0 +1,5 @@
+data:
+  -
+    path: '/home/ma-user/work/yanli/test_yl/OmniGen2/data_configs/train/example/ic/edit_0001.yml
+    type: 'edit'
+    ratio: !!float 1.0

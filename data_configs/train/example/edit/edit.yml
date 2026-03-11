@@ -1,0 +1,13 @@
+data:
+  - 
+    path: "/home/ma-user/work/yanli/test_yl/Datasets/multi_turn_editing/annotations/split_0001.jsonl"
+    type: "edit"
+    ratio: !!float 1
+  - 
+    path: "/home/ma-user/work/yanli/test_yl/Datasets/multi_turn_editing/annotations/split_0002.jsonl"
+    type: "edit"
+    ratio: !!float 1
+  - 
+    path: "/home/ma-user/work/yanli/test_yl/Datasets/multi_turn_editing/annotations/split_0003.jsonl"
+    type: "edit"
+    ratio: !!float 1

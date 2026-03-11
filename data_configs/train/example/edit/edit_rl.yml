@@ -1,0 +1,9 @@
+data:
+  - 
+    path: "/home/ma-user/work/yanli/test_yl/Omni_Pos_Data/test_select_pos.jsonl"
+    type: "edit"
+    ratio: !!float 1
+  - 
+    path: "/home/ma-user/work/yanli/test_yl/Datasets/filtered_both.jsonl"
+    type: "edit"
+    ratio: !!float 1
